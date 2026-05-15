@@ -129,7 +129,7 @@ I'm always interested in discussing innovative projects, collaborations, and opp
 | Platform | Link |
 |----------|------|
 | **Email** | [kmsyeedasif@gmail.com](mailto:kmsyeedasif@gmail.com) |
-| **Phone** | [+88 01318 841909](tel:+8801318841909) |
+| **Phone** | [+8801318841909](tel:+8801318841909) |
 | **LinkedIn** | [linkedin.com/in/kha-mo-syeed-asif](https://linkedin.com/in/kha-mo-syeed-asif) |
 | **Portfolio** | [portfolio.syeed-asif.workers.dev](https://portfolio.syeed-asif.workers.dev/) |
 | **GitHub** | [github.com/Syeed7682](https://github.com/Syeed7682) |
