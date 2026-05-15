@@ -1,20 +1,15 @@
 <div align="center">
-
 # 👋 Hi there! I'm Syeed7682
-
-**Full-Stack Developer | Data Scientist | ML Enthusiast | Open Source Contributor**
-
+**Full-Stack Developer | Data Scientist | ML Enthusiast | Open Source Contributor**  
 *Building innovative solutions and exploring cutting-edge technologies*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.syeed-asif.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kha-mo-syeed-asif)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmsyeedasif@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeed7682)
+</div>
 
 ---
-
-</div>
 
 ## 🎯 About Me
 
@@ -24,7 +19,7 @@ I'm a passionate developer and data scientist interested in building innovative 
 - 🌱 **Currently Learning**: Advanced ML architectures, Cloud computing, DevOps practices
 - 🎓 **Background**: Computer Science & Engineering
 - 💼 **Open To**: Collaboration, mentorship, and freelance opportunities
-- 📍 **Based In**: Bangladesh
+- 📍 **Based In**: Dhaka, Bangladesh
 
 ---
 
@@ -69,11 +64,11 @@ I'm a passionate developer and data scientist interested in building innovative 
 
 ## 💼 Experience & Leadership
 
-| Role | Organization | Duration | Highlights |
-|------|--------------|----------|-----------|
-| **Full-Stack Developer** | Multiple Projects | 2023 - Present | Built 15+ web applications and ML models |
+| Role                    | Organization     | Duration      | Highlights                              |
+|-------------------------|------------------|---------------|-----------------------------------------|
+| **Full-Stack Developer**| Multiple Projects| 2023 - Present| Built 15+ web applications and ML models|
 | **Data Science Enthusiast** | Open Source | 2024 - Present | Contributing to ML and data analysis projects |
-| **Technical Contributor** | Community | 2023 - Present | Active in open-source initiatives |
+| **Technical Contributor** | Community     | 2023 - Present| Active in open-source initiatives       |
 
 ---
 
@@ -99,105 +94,39 @@ I'm a passionate developer and data scientist interested in building innovative 
 
 ---
 
-## 📚 Latest Projects & Repositories
-
-Check out my pinned repositories above for my latest work! You can also visit my [GitHub profile](https://github.com/Syeed7682) to see all my projects and contributions.
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syeed7682&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeed7682&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Syeed7682&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Syeed7682&theme=radical&hide_border=true)
-
 </div>
 
 ---
 
 ## 🏆 Achievements & Certifications
-
 - ✅ **15+ Projects Completed** - Across web development, ML, and data science
 - ✅ **Open Source Contributor** - Active in community projects
-- ✅ **Full-Stack Developer** - Proficient in frontend and backend technologies
-- ✅ **ML/Data Science Practitioner** - Experience with deep learning and statistical analysis
-- 📜 *Certifications available upon request*
-
----
-
-## 💡 Core Competencies
-
-| Category | Expertise |
-|----------|-----------|
-| **Web Development** | Full-stack development, REST APIs, responsive design, UI/UX implementation |
-| **Data Science** | ML modeling, data preprocessing, feature engineering, statistical analysis |
-| **Database Design** | SQL optimization, NoSQL design, data modeling, query optimization |
-| **Problem Solving** | Algorithm design, system design, optimization techniques |
-| **Version Control** | Git workflows, collaborative development, CI/CD concepts |
-
----
-
-## 📚 Blog & Resources
-
-I occasionally write about my learnings and projects:
-- 📝 **Medium**: [YOUR_MEDIUM_PROFILE](YOUR_MEDIUM_URL) - Articles on ML and Web Development
-- 📖 **Dev.to**: [YOUR_DEVTO_PROFILE](YOUR_DEVTO_URL) - Technical tutorials and tips
-- 💻 **Portfolio Blog**: [YOUR_BLOG](YOUR_BLOG_URL) - In-depth project walkthroughs
+- ✅ **Full-Stack & ML Practitioner**
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always interested in:
-- 💼 **Job Opportunities** - Full-time, part-time, or freelance roles
-- 🤝 **Collaboration** - On exciting projects and open-source initiatives
-- 💬 **Knowledge Sharing** - Discussions about technology and best practices
-- 🎓 **Mentorship** - Both learning and teaching opportunities
+**📫 Get In Touch**
 
-### 📫 Get In Touch
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](YOUR_LINKEDIN_URL)
-- **Twitter**: [@yourhandle](YOUR_TWITTER_URL)
-- **Portfolio**: [sarafat.pro.bd](YOUR_PORTFOLIO_URL)
-- **Discord**: YourUsername#0000
-
----
-
-## 📊 Contribution Guidelines
-
-If you'd like to collaborate on any of my projects:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
----
-
-## 📄 License
-
-Most of my projects are licensed under the MIT License. See individual repository files for details.
+- **Email**: [kmsyeedasif@gmail.com](mailto:kmsyeedasif@gmail.com)
+- **Phone**: [+8801318-841909](tel:+8801318841909)
+- **LinkedIn**: [linkedin.com/in/kha-mo-syeed-asif](https://linkedin.com/in/kha-mo-syeed-asif)
+- **Portfolio**: [portfolio.syeed-asif.workers.dev](https://portfolio.syeed-asif.workers.dev/)
+- **GitHub**: [github.com/Syeed7682](https://github.com/Syeed7682)
 
 ---
 
 <div align="center">
-
 ### ⭐ If you find my work interesting, please consider giving my repositories a star! It means a lot! ⭐
 
 **Happy Coding! 🚀**
 
----
-
-*Last Updated: 2026-05-15*
-
-*Profile views:* ![Profile Views](https://komarev.com/ghpvc/?username=Syeed7682&color=blue&style=flat-square)
-
+*Last Updated: 2026-05-16*
 </div>
