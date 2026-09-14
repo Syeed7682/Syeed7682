@@ -140,27 +140,24 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐛"
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Syeed7682&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+<img src="https://github-trophies.devomb.com/?username=Syeed7682&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 
 <br/><br/>
 
 <!-- Stats Cards Side by Side -->
 <a href="https://github.com/Syeed7682">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syeed7682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&bg_color=1a1b27&ring_color=58A6FF&icon_color=58A6FF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Syeed7682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&bg_color=1a1b27&ring_color=58A6FF&icon_color=58A6FF" />
 </a>
 <a href="https://github.com/Syeed7682">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeed7682&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&langs_count=8" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Syeed7682&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&langs_count=8" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=Syeed7682&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" width="49%"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeed7682&theme=tokyo-night&hide_border=true&radius=12&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" width="98%"/>
+<a href="https://github.com/Syeed7682">
+  <img src="https://streak-stats.demolab.com/?user=Syeed7682&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+</a>
 
 <br/><br/>
 
