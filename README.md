@@ -107,42 +107,28 @@ fun_fact: "I debug with print statements and I'm not ashamed 🐛"
 
 ### 📊 Data Science & Machine Learning
 
-<a href="https://github.com/Syeed7682/Retina_Disease_Classifiaction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Retina_Disease_Classifiaction&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Capstone-Project-C">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Capstone-Project-C&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Bd_Election_2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Bd_Election_2026&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 👁️ **[Retina Disease Classification](https://github.com/Syeed7682/Retina_Disease_Classifiaction)** | Deep learning model for medical image classification using CNNs | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🔍 **[FAISS Indexing Benchmarking](https://github.com/Syeed7682/Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim)** | Comparative analysis of exact vs approximate indexing on Deep1M | ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat&logo=meta&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🤖 **[Capstone Project](https://github.com/Syeed7682/Capstone-Project-C)** | Advanced machine learning research with innovative algorithms | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) |
+| 🗳️ **[BD Election 2026 Analysis](https://github.com/Syeed7682/Bd_Election_2026)** | Comprehensive data analysis and visualization of election data | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 
 ### 🌐 Web Applications
 
-<a href="https://github.com/Syeed7682/Cine-Mela">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Cine-Mela&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/My_E_Commerce_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=My_E_Commerce_system&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Cash-Trail-Web-Application-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Cash-Trail-Web-Application-main&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Expance-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Expance-Tracker&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🎬 **[Cine-Mela](https://github.com/Syeed7682/Cine-Mela)** | Full-featured movie discovery platform with user ratings | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| 🛒 **[E-Commerce System](https://github.com/Syeed7682/My_E_Commerce_system)** | Complete e-commerce platform with secure payment integration | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| 💰 **[Cash Trail](https://github.com/Syeed7682/Cash-Trail-Web-Application-main)** | Intuitive financial tracking and budgeting web application | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| 📊 **[Expense Tracker](https://github.com/Syeed7682/Expance-Tracker)** | Personal expense management and analytics tool | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat&logo=firebase&logoColor=white) |
 
 ### 💡 Other Notable Projects
 
-<a href="https://github.com/Syeed7682/Hospital-Management-System-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Hospital-Management-System-Java&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/Syeed7682/Power-Pulse-Dashboard-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Power-Pulse-Dashboard-&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🏥 **[Hospital Management System](https://github.com/Syeed7682/Hospital-Management-System-Java)** | Comprehensive hospital management solution with GUI | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| ⚡ **[Power Pulse Dashboard](https://github.com/Syeed7682/Power-Pulse-Dashboard-)** | Energy analytics and real-time monitoring dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 </div>
 
