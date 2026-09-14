@@ -1,153 +1,241 @@
 <div align="center">
 
-# 👋 Hi there! I'm Syeed7682
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kha.%20Mo.%20Syeed%20Asif&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
 
-**Full-Stack Developer | Data Scientist | ML Enthusiast | Open Source Contributor**
-
-*Building innovative solutions and exploring cutting-edge technologies*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.syeed-asif.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kha-mo-syeed-asif)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmsyeedasif@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeed7682)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a passionate full-stack developer and data scientist focused on building innovative solutions that solve real-world problems. With expertise in full-stack development, machine learning, and data science, I'm committed to delivering high-quality applications and contributing to open-source initiatives.
-
-- **Passionate About**: Full-Stack Development, Data Science & ML, Open Source, Cloud Technologies
-- **Currently Learning**: Advanced ML Architectures, Cloud Computing, DevOps Practices
-- **Background**: Computer Science & Engineering
-- **Open To**: Collaboration, Mentorship, and Freelance Opportunities
-- **Location**: Dhaka, Bangladesh
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00A4EF?style=flat-square&logo=meta&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 💼 Professional Experience
-
-| Role | Organization | Duration | Highlights |
-|------|--------------|----------|-----------|
-| **Full-Stack Developer** | Multiple Projects | 2023 - Present | Developed 15+ scalable web applications and ML models |
-| **Data Science Enthusiast** | Open Source Community | 2024 - Present | Contributing to ML and advanced data analysis projects |
-| **Technical Contributor** | Open Source Initiatives | 2023 - Present | Active contributor to community-driven projects |
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Data Science & Machine Learning
-- **[Retina Disease Classification](https://github.com/Syeed7682/Retina_Disease_Classifiaction)** — Deep learning model for medical image classification using Convolutional Neural Networks
-- **[FAISS Indexing Benchmarking](https://github.com/Syeed7682/Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim)** — Comparative analysis of indexing methods on the Deep1M dataset
-- **[Capstone Project](https://github.com/Syeed7682/Capstone_Project)** — Advanced machine learning research with innovative algorithms
-- **[BD Election 2026 Analysis](https://github.com/Syeed7682/Bd_Election_2026)** — Comprehensive data analysis and visualization project
-
-### 🌐 Web Applications
-- **[Cine-Mela](https://github.com/Syeed7682/Cine-Mela)** — Full-featured movie discovery platform with user ratings and reviews
-- **[E-Commerce System](https://github.com/Syeed7682/My_E_Commerce_system)** — Complete e-commerce platform with secure payment integration
-- **[Cash Trail](https://github.com/Syeed7682/Cash-Trail-Web-Application-main)** — Intuitive financial tracking and budgeting application
-- **[Expense Tracker](https://github.com/Syeed7682/Expance-Tracker)** — Personal expense management and analytics tool
-
-### 💡 Desktop & Utility Applications
-- **[Hospital Management System](https://github.com/Syeed7682/Hospital-Management-System-Java)** — Comprehensive hospital management solution with GUI built in Java
-- **[Carbon Emission Calculator](https://github.com/Syeed7682/Carbon-Emission-Calculator)** — Environmental impact calculator for sustainability tracking
-- **[Power Dashboard](https://github.com/Syeed7682/Power-Pulse-Dashboard-)** — Energy analytics and real-time monitoring dashboard
-- **[Portfolio](https://github.com/Syeed7682/Portfolio)** — Personal portfolio website showcasing professional work
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syeed7682&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeed7682&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Syeed7682&theme=radical&hide_border=true)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Building+Multimodal+AI+%26+RAG+Systems+%F0%9F%A7%A0;Exploring+Computer+Vision+%26+Deep+Learning+%F0%9F%94%AC;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-### 🐍 GitHub Contributions Snake
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://portfolio.syeed-asif.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kha-mo-syeed-asif)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4202-3584)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmsyeedasif@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sye.ed.5264)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/ocean.gif)
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Syeed7682&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Syeed7682?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Syeed7682?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github)
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- ✅ **15+ Projects Completed** — Across web development, machine learning, and data science
-- ✅ **Open Source Contributor** — Active participant in community-driven initiatives
-- ✅ **Full-Stack & ML Practitioner** — Proficient in end-to-end development and ML workflows
+```yaml
+name: Kha. Mo. Syeed Asif
+location: Dhaka, Bangladesh 🇧🇩
+education: Computer Science & Engineering @ East West University (EWU)
 
----
+current_focus:
+  - Multimodal AI & RAG Systems
+  - Computer Vision & Deep Learning
+  - Full-Stack Web Development
 
-## 🤝 Let's Connect & Collaborate
+interests:
+  - Data Science & Analytics
+  - Cloud Computing & DevOps
+  - Open Source Contribution
 
-I'm always interested in discussing innovative projects, collaborations, and opportunities to contribute to meaningful work.
+open_to:
+  - Research Collaboration
+  - Freelance Projects
+  - Mentorship Opportunities
 
-**📫 Contact Information**
+fun_fact: "I debug with print statements and I'm not ashamed 🐛"
+```
 
-| Platform | Link |
-|----------|------|
-| **Email** | [kmsyeedasif@gmail.com](mailto:kmsyeedasif@gmail.com) |
-| **Phone** | [+8801318841909](tel:+8801318841909) |
-| **LinkedIn** | [linkedin.com/in/kha-mo-syeed-asif](https://linkedin.com/in/kha-mo-syeed-asif) |
-| **Portfolio** | [portfolio.syeed-asif.workers.dev](https://portfolio.syeed-asif.workers.dev/) |
-| **GitHub** | [github.com/Syeed7682](https://github.com/Syeed7682) |
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ⭐ If you find my work interesting, please consider giving my repositories a star!
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Happy Coding! 🚀**
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-*Last Updated: May 2026*
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 🧠 AI / ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📊 Data Science & Machine Learning
+
+<a href="https://github.com/Syeed7682/Retina_Disease_Classifiaction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Retina_Disease_Classifiaction&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Benchmarking-FAISS-Indexing-Methods-on-the-Deep1M-Dataset-A-Comparative-Study-of-Exact-and-Approxim&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Capstone-Project-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Capstone-Project-C&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Bd_Election_2026">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Bd_Election_2026&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+### 🌐 Web Applications
+
+<a href="https://github.com/Syeed7682/Cine-Mela">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Cine-Mela&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/My_E_Commerce_system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=My_E_Commerce_system&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Cash-Trail-Web-Application-main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Cash-Trail-Web-Application-main&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Expance-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Expance-Tracker&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+### 💡 Other Notable Projects
+
+<a href="https://github.com/Syeed7682/Hospital-Management-System-Java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Hospital-Management-System-Java&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+<a href="https://github.com/Syeed7682/Power-Pulse-Dashboard-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Syeed7682&repo=Power-Pulse-Dashboard-&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Syeed7682&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+<br/><br/>
+
+<!-- Stats Cards Side by Side -->
+<a href="https://github.com/Syeed7682">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syeed7682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&bg_color=1a1b27&ring_color=58A6FF&icon_color=58A6FF" />
+</a>
+<a href="https://github.com/Syeed7682">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeed7682&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=Syeed7682&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" width="49%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeed7682&theme=tokyo-night&hide_border=true&radius=12&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" width="98%"/>
+
+<br/><br/>
+
+### 🐍 Watch the Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/ocean.gif" width="100%"/>
+</picture>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Experience & Achievements
+
+<div align="center">
+
+| 🎯 | Highlight | Details |
+|:---:|:---|:---|
+| 🏗️ | **15+ Projects Built** | Full-stack web apps, ML models & data pipelines |
+| 🧠 | **ML Research** | Retina disease classification, FAISS benchmarking |
+| 🌍 | **Open Source** | Active contributor to community-driven projects |
+| 📊 | **Data Analytics** | Election analysis, power dashboards, financial tools |
+| 🎓 | **CSE @ EWU** | Computer Science & Engineering student |
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**I'm always open to interesting conversations, collaborations, and opportunities!**
+
+<br/>
+
+| 📬 Platform | 🔗 Link |
+|:---:|:---|
+| **📧 Email** | [kmsyeedasif@gmail.com](mailto:kmsyeedasif@gmail.com) |
+| **📱 Phone** | [+880 1318 841909](tel:+8801318841909) |
+| **💼 LinkedIn** | [linkedin.com/in/kha-mo-syeed-asif](https://linkedin.com/in/kha-mo-syeed-asif) |
+| **🌐 Portfolio** | [portfolio.syeed-asif.workers.dev](https://portfolio.syeed-asif.workers.dev/) |
+| **🆔 ORCID** | [0009-0007-4202-3584](https://orcid.org/0009-0007-4202-3584) |
+| **🐙 GitHub** | [github.com/Syeed7682](https://github.com/Syeed7682) |
+
+<br/>
+
+### 💡 _"The best way to predict the future is to build it."_
+
+<br/>
+
+⭐ **If you find my work interesting, consider giving my repositories a star!**
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
