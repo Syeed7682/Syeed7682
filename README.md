@@ -112,7 +112,7 @@ I'm a passionate full-stack developer and data scientist focused on building inn
 
 ### 🐍 GitHub Contributions Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/dist/ocean.gif)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Syeed7682/Syeed7682/output/ocean.gif)
 
 </div>
 
